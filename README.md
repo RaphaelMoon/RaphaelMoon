@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hyungseok Moon (문형석)
+# 👋 Hi, I'm Hyeongseok Moon (문형석)
 Trilingual (KR/JP/EN) technical support engineer with a background in full-stack development, enterprise system troubleshooting, and customer-facing operations across Korea and Japan.
 
 I focus on:
