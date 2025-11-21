@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hyeongseok Moon (문형석)
-Trilingual (KR/JP/EN) technical support engineer with a background in full-stack development, enterprise system troubleshooting, and customer-facing operations across Korea and Japan.
+Multilingual technical support engineer with a background in full-stack development, enterprise system troubleshooting, and customer-facing operations across Korea and Japan.
 
 I focus on:
 
@@ -16,8 +16,15 @@ I focus on:
 ⚙️ Writing maintainable backend code with Node.js
 
 I love turning unclear problems into clear solutions — whether through log analysis, API debugging, or hands-on code investigation.
+## 🌐 Languages
 
-## Tools and Skills
+<p align="left">
+<img src="https://img.shields.io/badge/Korean-Native-0FA958?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/Japanese-Fluent-1E50A2?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/English-Fluent-0077B5?style=flat&logoColor=white" />
+</p>
+
+## 🛠️ Tools and Skills
 <div>
 <!-- Languages -->
 <h3>Languages</h3>
