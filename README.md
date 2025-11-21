@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Hyungseok Moon (문형석)
+Trilingual (KR/JP/EN) technical support engineer with a background in full-stack development, enterprise system troubleshooting, and customer-facing operations across Korea and Japan.
 
-<!--
-**RaphaelMoon/RaphaelMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on:
 
-Here are some ideas to get you started:
+🔍 Debugging & reproducing issues
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Authentication flows (OAuth, SSO)
+
+🔌 API integration & connectivity
+
+🧩 Breaking down complex system behavior
+
+🎨 Building clean UI/UX with React
+
+⚙️ Writing maintainable backend code with Node.js
+
+I love turning unclear problems into clear solutions — whether through log analysis, API debugging, or hands-on code investigation.
